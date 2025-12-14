@@ -26,3 +26,13 @@ Hypotheses
 
 H1: The frequency of singular they is higher in the late period (2019) than in the early period (1990).
 H2: The combined frequency of he and she is higher in the early period (1990) than in the late period (2019)
+
+4. Method
+
+This study adopts a corpus-based quantitative approach using data from the Corpus of Contemporary American English (COCA). COCA is a large, balanced corpus of American English containing texts from multiple genres, including spoken language, fiction, magazines, newspapers, and academic writing, making it suitable for diachronic linguistic analysis.
+
+Two subcorpora are selected to represent English usage in 1990 and 2019. These years are chosen to capture changes in pronoun usage over a nearly thirty-year period.
+
+The analysis focuses on identifying and counting occurrences of singular they and gendered pronouns (he and she). Instances of they are manually filtered to exclude clearly plural uses, ensuring that only singular references are included. The dependent variables are the relative frequencies of singular they and he/she, while the independent variable is time period (1990 vs. 2019).
+
+Relative frequencies are calculated per million words to allow for accurate comparison between datasets of different sizes. The resulting frequency differences are analyzed to determine whether the observed changes support the hypotheses and reflect broader social shifts toward gender inclusivity in language use.
